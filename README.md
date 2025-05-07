@@ -3,7 +3,6 @@
 - 🔭 Estou cursando Desenvolvimento de Sistema
 - 🌱 Concluindo o Ensino Médio
 - 📫 Contate-me no email: matheusmathiasdossantos@gmail.com
-- 😄 Pronouns: ele/dele
 
 ##
 
