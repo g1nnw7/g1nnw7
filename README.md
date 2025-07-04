@@ -1,18 +1,22 @@
-## Olá! Eu sou o Matheus Mathias🙅‍♂️
+<div align="center">
+Olá! Eu sou o Matheus Mathias🙅‍♂️
 
-- 🔭 Estou cursando Desenvolvimento de Sistema
-- 🌱 Concluindo o Ensino Médio
-- 📫 Contate-me no email: matheusmathiasdossantos@gmail.com
+🔭 Estou cursando Desenvolvimento de Sistema <br>
+🌱 Concluindo o Ensino Médio <br>
+📫 Contate-me no email: matheusmathiasdossantos@gmail.com
 
 ###
 
+<div />
 <div align="center">
-    <a href="https://github.com/g1nnw7">
+
 <img src="https://github-readme-stats.vercel.app/api?username=g1nnw7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g1nnw7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: inline_block"><br>
+###
+
+<div>
   <img align="center" alt="Mathias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mathias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mathias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -30,6 +34,7 @@
   
 </div>
 
+###
 
 <br>
 <br>
