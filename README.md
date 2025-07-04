@@ -29,8 +29,15 @@
   <a href="https://www.linkedin.com/in/matheus-mathias-dos-santos-3955a0325/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g1nnw7/g1nnw7/output/pacman-contribution-graph-dark.svg">
+###
+
+<br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g1nnw7/g1nnw7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g1nnw7/g1nnw7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/g1nnw7/g1nnw7/output/pacman-contribution-graph.svg">
-</div>
+</picture>
+
+###
