@@ -3,7 +3,6 @@ Olá! Eu sou o Matheus Mathias🙅‍♂️
 
 🔭 Estou cursando Desenvolvimento de Sistema <br>
 🌱 Concluindo o Ensino Médio <br>
-📫 Contate-me no email: matheusmathiasdossantos@gmail.com
 
 ###
 
