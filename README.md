@@ -1,5 +1,7 @@
 <div align="center">
-Olá! Eu sou o Matheus Mathias🙅‍♂️
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vcenter=true&width=1000&lines=Olá,+me+chamo+Matheus+Mathias+:%29;Fique+à+vontade+para+conferir;E+contribuir+com+meus+repositórios,+se+assim+desejar)](https://git.io/typing-svg) 
+🙅‍♂️
 
 🔭 Estou cursando Desenvolvimento de Sistema <br>
 🌱 Concluindo o Ensino Médio <br>
@@ -9,8 +11,8 @@ Olá! Eu sou o Matheus Mathias🙅‍♂️
 <div />
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=g1nnw7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g1nnw7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=g1nnw7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g1nnw7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
